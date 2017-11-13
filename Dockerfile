@@ -1,4 +1,4 @@
-FROM node
+FROM node:6.10
 
 # Install zip
 apt-get update
